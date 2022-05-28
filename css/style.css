@@ -1,4 +1,12 @@
 #output{
-  background-color: black;
-  color: whitesmoke;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
+  background-position: center;
+  border: #000000;
+}
+body{
+  background-image:url(../img/inline_image_preview.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
